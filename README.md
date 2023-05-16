@@ -1,1 +1,1 @@
-Fala, sou wanderson,  estudante de programação!
+Fala devs, me chamo Wanderson Pereira.
