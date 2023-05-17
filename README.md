@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wanndersondev&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
  </div>
 
-## Tecnologias
+## Hard Skills
 
 <div>
   <img align="center" alt="PereiraHTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
