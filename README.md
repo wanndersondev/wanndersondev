@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5658dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusanchieta/)](https://www.linkedin.com/in/wandersonpereira-dev/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-5658dd?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/viniciusanchieta.dev/)](https://www.instagram.com/wandersondev_/)
 
+## About
 <div>
   <p>I'm a programming student with studies focused on front-end development, with skills in HTML, CSS and JavaScript. I am passionate about innovation and looking to learn new technologies to provide creative and efficient solutions for projects.<p>
 </div>
