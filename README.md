@@ -4,7 +4,7 @@
 
 ## About
 <div>
-  <p>Desenvolvedor Front-end em processo de aprendizagem com uma extrema paixão pela tecnologia e com uma sede insaciável de conhecimento. Atualmente sou Acadêmico em Análise e Desenvolvimento de Sistemas, e com habilidades em HTML, CSS, JavaScript, Git e GitHub. Busco o desenvolvimento profissional através de uma oportunidade no mercado de tecnologia para adquirir novos conhecimentos onde irei colocar em pratica em favor da instituição.
+  <p>Sou um Desenvolvedor Front-End em processo de aprendizagem, com uma extrema paixão pela área de programação e muita gana de evolução. Acadêmico em Análise e Desenvolvimento de Sistemas, e há 5 meses venho com uma prática diária de estudos nas seguintes linguagens: HTML, CSS, JavaScript e Git. Tenho certeza que estou pronto para somar grandes valores na sua equipe de programadores. Tenho facilidade de aprendizado, boa comunicação e busco aprimorar minhas habilidades cada vez mais.
   <p>
 </div>
 
