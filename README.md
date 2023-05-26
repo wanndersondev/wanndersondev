@@ -4,7 +4,8 @@
 
 ## About
 <div>
-  <p>I'm a programming student with studies focused on front-end development, with skills in HTML, CSS and JavaScript. I am passionate about innovation and looking to learn new technologies to provide creative and efficient solutions for projects.<p>
+  <p>Desenvolvedor Front-end em processo de aprendizagem com uma extrema paixão pela tecnologia e com uma sede insaciável de conhecimento. Atualmente sou Acadêmico em Análise e Desenvolvimento de Sistemas, e com habilidades em HTML, CSS, JavaScript, Git e GitHub. Busco o desenvolvimento profissional através de uma oportunidade no mercado de tecnologia para adquirir novos conhecimentos onde irei colocar em pratica em favor da instituição.
+  <p>
 </div>
 
  <div>
